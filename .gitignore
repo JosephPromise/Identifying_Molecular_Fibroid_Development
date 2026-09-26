@@ -1,0 +1,31 @@
+# Python virtual environment
+
+venv/
+
+# Python cache files
+__pycache__/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Research data files
+data/*`
+!data/README.md
+
+# Trained model files
+models/*`
+!models/README.md
+models/*.h5
+models/*.pt
+models/*.pth
+
+
+# Data file
+*.csv
+*.tsv
+*.xlsx
+
+
+# Environment files
+.env
