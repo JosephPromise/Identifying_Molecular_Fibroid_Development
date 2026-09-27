@@ -1,0 +1,47 @@
+{
+  "n_union": 33,
+  "n_annotated": 33,
+  "island_pct_union": 0.5454545454545454,
+  "island_pct_array": 0.31145617624440064,
+  "island_p": 0.004418929937179057,
+  "genes": [
+    "ADCY2",
+    "BCAN",
+    "C13orf26",
+    "C1orf61",
+    "C7orf16",
+    "CCDC88C",
+    "DFFB",
+    "GRIN2A",
+    "GUCY2D",
+    "KIAA0562",
+    "LOC153684",
+    "LRFN1",
+    "NR2E1",
+    "RPS6KA2",
+    "SEL1L3",
+    "SHH",
+    "SIDT1",
+    "SIX3",
+    "SLC8A2",
+    "SYCN",
+    "TPPP3",
+    "TTBK1",
+    "UNC5A",
+    "ZDHHC1"
+  ],
+  "literature_overlap": [
+    "CCDC88C",
+    "SHH"
+  ],
+  "canonical_drivers_absent": [
+    "COL1A1",
+    "COL3A1",
+    "DLK1",
+    "FN1",
+    "HMGA2",
+    "MED12",
+    "MEG3",
+    "TGFB3"
+  ]
+}
