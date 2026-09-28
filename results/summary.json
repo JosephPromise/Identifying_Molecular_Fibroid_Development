@@ -66,5 +66,5 @@
   "deep_estimators": [
     "DeepExplainer"
   ],
-  "runtime_s": 69.3
+  "runtime_s": 65.3
 }
